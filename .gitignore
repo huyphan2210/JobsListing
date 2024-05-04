@@ -19,6 +19,7 @@ yarn-error.log
 build/
 coverage/
 npm-debug.log
+
 *.props
 *.pdb
 *.cache
@@ -29,3 +30,11 @@ JobsListing.Server/obj/Debug/net8.0/JobsListing.Server.assets.cache
 JobsListing.Server/obj/Debug/net8.0/JobsListing.Server.MvcApplicationPartsAssemblyInfo.cs
 JobsListing.Server/obj/Debug/net8.0/JobsListing.Server.sourcelink.json
 JobsListing.Server/obj/Debug/net8.0/staticwebassets.build.json
+JobsListing.Server/obj/Debug/net8.0/JobsListing.Server.AssemblyInfo.cs
+JobsListing.Server/obj/Debug/net8.0/JobsListing.Server.AssemblyInfoInputs.cache
+JobsListing.Server/obj/Debug/net8.0/JobsListing.Server.assets.cache
+JobsListing.Server/obj/JobsListing.Server.csproj.nuget.dgspec.json
+JobsListing.Server/obj/JobsListing.Server.csproj.nuget.g.props
+JobsListing.Server/obj/JobsListing.Server.csproj.nuget.g.targets
+JobsListing.Server/obj/project.assets.json
+JobsListing.Server/obj/project.nuget.cache
