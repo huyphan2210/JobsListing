@@ -1,0 +1,18 @@
+{
+  "version": 2,
+  "dgSpecHash": "yFxweXHLJqka+8IX0lKOPoznqqYIlgRlZBK8trB9Xft6QohncepeOs5vLEkFwlvRb3fyUDC/C+tLXOx55vfPsg==",
+  "success": false,
+  "projectFilePath": "C:\\Users\\huyph\\Projects\\JobsListing\\JobsListing.Server\\JobsListing.Server.csproj",
+  "expectedPackageFiles": [],
+  "logs": [
+    {
+      "code": "NU1100",
+      "level": "Error",
+      "message": "Unable to resolve 'Swashbuckle.AspNetCore (>= 6.4.0)' for 'net8.0'. PackageSourceMapping is enabled, the following source(s) were not considered: Microsoft Visual Studio Offline Packages, nuget.org.",
+      "libraryId": "Swashbuckle.AspNetCore",
+      "targetGraphs": [
+        "net8.0"
+      ]
+    }
+  ]
+}
